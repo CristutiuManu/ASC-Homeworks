@@ -1,0 +1,12 @@
+/Users/cristutiu/ASC-Homoworks/Tema1/Tema1/bin/Debug/netcoreapp3.1/Tema1.deps.json
+/Users/cristutiu/ASC-Homoworks/Tema1/Tema1/bin/Debug/netcoreapp3.1/Tema1.runtimeconfig.json
+/Users/cristutiu/ASC-Homoworks/Tema1/Tema1/bin/Debug/netcoreapp3.1/Tema1.runtimeconfig.dev.json
+/Users/cristutiu/ASC-Homoworks/Tema1/Tema1/bin/Debug/netcoreapp3.1/Tema1.dll
+/Users/cristutiu/ASC-Homoworks/Tema1/Tema1/bin/Debug/netcoreapp3.1/Tema1.pdb
+/Users/cristutiu/ASC-Homoworks/Tema1/Tema1/obj/Debug/netcoreapp3.1/Tema1.csprojAssemblyReference.cache
+/Users/cristutiu/ASC-Homoworks/Tema1/Tema1/obj/Debug/netcoreapp3.1/Tema1.AssemblyInfoInputs.cache
+/Users/cristutiu/ASC-Homoworks/Tema1/Tema1/obj/Debug/netcoreapp3.1/Tema1.AssemblyInfo.cs
+/Users/cristutiu/ASC-Homoworks/Tema1/Tema1/obj/Debug/netcoreapp3.1/Tema1.csproj.CoreCompileInputs.cache
+/Users/cristutiu/ASC-Homoworks/Tema1/Tema1/obj/Debug/netcoreapp3.1/Tema1.dll
+/Users/cristutiu/ASC-Homoworks/Tema1/Tema1/obj/Debug/netcoreapp3.1/Tema1.pdb
+/Users/cristutiu/ASC-Homoworks/Tema1/Tema1/obj/Debug/netcoreapp3.1/Tema1.genruntimeconfig.cache
