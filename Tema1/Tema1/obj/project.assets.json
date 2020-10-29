@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/cristutiu/ASC-Homoworks/Tema1/Tema1/Tema1.csproj",
-      "projectName": "Tema1",
-      "projectPath": "/Users/cristutiu/ASC-Homoworks/Tema1/Tema1/Tema1.csproj",
+      "projectUniqueName": "/Users/cristutiu/ASC-Homoworks/Tema1/Tema1/Teme-ASC.csproj",
+      "projectName": "Teme-ASC",
+      "projectPath": "/Users/cristutiu/ASC-Homoworks/Tema1/Tema1/Teme-ASC.csproj",
       "packagesPath": "/Users/cristutiu/.nuget/packages/",
       "outputPath": "/Users/cristutiu/ASC-Homoworks/Tema1/Tema1/obj/",
       "projectStyle": "PackageReference",

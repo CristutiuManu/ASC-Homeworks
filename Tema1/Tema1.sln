@@ -1,7 +1,7 @@
 
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tema1", "Tema1\Tema1.csproj", "{D4B24DBF-65FA-4C1F-BC75-334282200F43}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Teme-ASC", "Tema1\Teme-ASC.csproj", "{D4B24DBF-65FA-4C1F-BC75-334282200F43}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
