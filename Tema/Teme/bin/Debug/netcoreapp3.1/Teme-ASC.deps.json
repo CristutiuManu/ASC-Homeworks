@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Teme-ASC/1.0.0": {
+        "runtime": {
+          "Teme-ASC.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Teme-ASC/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

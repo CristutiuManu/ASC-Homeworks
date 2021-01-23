@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/cristutiu/ASC-Homoworks/Tema1/Tema1/Teme-ASC.csproj",
+      "projectUniqueName": "/Users/cristutiu/ASC-Homeworks/Tema/Teme/Teme-ASC.csproj",
       "projectName": "Teme-ASC",
-      "projectPath": "/Users/cristutiu/ASC-Homoworks/Tema1/Tema1/Teme-ASC.csproj",
+      "projectPath": "/Users/cristutiu/ASC-Homeworks/Tema/Teme/Teme-ASC.csproj",
       "packagesPath": "/Users/cristutiu/.nuget/packages/",
-      "outputPath": "/Users/cristutiu/ASC-Homoworks/Tema1/Tema1/obj/",
+      "outputPath": "/Users/cristutiu/ASC-Homeworks/Tema/Teme/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/cristutiu/.config/NuGet/NuGet.Config"
@@ -30,6 +30,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "projectReferences": {}
         }
       },
@@ -41,6 +42,7 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
         "imports": [
           "net461",
           "net462",
@@ -56,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.402/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.102/RuntimeIdentifierGraph.json"
       }
     }
   }

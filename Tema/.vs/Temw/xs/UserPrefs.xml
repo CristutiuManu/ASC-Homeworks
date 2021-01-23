@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{D4B24DBF-65FA-4C1F-BC75-334282200F43}|Default">
+  <MonoDevelop.Ide.ItemProperties.Teme-ASC PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Tema1/Program.cs">
+    <Files>
+      <File FileName="Tema1/Program.cs" Line="109" Column="14" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Temw" expanded="True" selected="True">
+            <Node name="Teme-ASC" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
