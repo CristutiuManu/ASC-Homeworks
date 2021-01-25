@@ -13,8 +13,10 @@ namespace Tema1
         {
             //conversii();
             //HexViewer hex = new HexViewer();
-            AutomatDeVanzari.A(); 
-            
+            //AutomatDeVanzari.A(); 
+
+            OperatiiNumereMari op = new OperatiiNumereMari();
+            op.alegereOptiune();
 
         }
     }
