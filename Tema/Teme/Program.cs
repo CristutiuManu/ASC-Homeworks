@@ -15,8 +15,11 @@ namespace Tema1
             //HexViewer hex = new HexViewer();
             //AutomatDeVanzari.A(); 
 
-            OperatiiNumereMari op = new OperatiiNumereMari();
-            op.alegereOptiune();
+            //OperatiiNumereMari op = new OperatiiNumereMari();
+            //op.alegereOptiune();
+
+            Asamblor_Emulator.emulator();
+
 
         }
     }
