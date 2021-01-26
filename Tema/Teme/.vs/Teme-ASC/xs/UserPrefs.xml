@@ -1,18 +1,18 @@
 ﻿<Properties StartupConfiguration="{882B5522-1015-4451-9956-DEA362FCF76B}|Default">
   <MonoDevelop.Ide.ItemProperties.Teme-ASC PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DiscreteCantor.cs">
     <Files>
       <File FileName="AutomatDeVanzari.cs" Line="28" Column="29" />
       <File FileName="OperatiiNumereMari.cs" Line="31" Column="58" />
-      <File FileName="Program.cs" Line="27" Column="1" />
-      <File FileName="Asamblor-Emulator.cs" Line="8" Column="35" />
+      <File FileName="Program.cs" Line="22" Column="1" />
+      <File FileName="DiscreteCantor.cs" Line="18" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Teme-ASC" expanded="True">
             <Node name="Teme-ASC" expanded="True">
-              <Node name="Program.cs" selected="True" />
+              <Node name="DiscreteCantor.cs" selected="True" />
             </Node>
           </Node>
         </State>

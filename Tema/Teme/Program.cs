@@ -18,7 +18,9 @@ namespace Tema1
             //OperatiiNumereMari op = new OperatiiNumereMari();
             //op.alegereOptiune();
 
-            Asamblor_Emulator.emulator();
+            //Asamblor_Emulator.emulator();
+
+            DiscreteCantor cantor = new DiscreteCantor();
 
 
         }
